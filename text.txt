@@ -1,2 +1,3 @@
 Hello Class.
 Lets learn branching and merging.
+line 3 from the test branch
